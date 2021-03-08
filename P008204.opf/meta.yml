@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W2DB4607
   title: 'སྔགས་མང་ཞིབ་འཇུག ༼༥༽ '
   author: ''
-  volumes: {}
+  volumes:
+    47c22e54eeb645a4b7af4c0e354b3c9c:
+      image_group_id: I1PD27265
+      title: ''
+      volume_number: 1
+      total_pages: 158
